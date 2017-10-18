@@ -8,4 +8,8 @@ Computer Science student from Croatia. Currently on my 5th and final year of stu
 
 ### Contact me
 
-[danielbratulic@gmail.com](mailto:danielbratulic@gmail.com)
+* [danielbratulic@gmail.com](mailto:danielbratulic@gmail.com)
+
+* My personal [github](https://github.com/danchyy) account
+
+* My [linkedin](https://www.linkedin.com/in/daniel-bratulic/) profile
