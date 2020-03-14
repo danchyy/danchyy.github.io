@@ -1,6 +1,9 @@
 ---
 layout: post
-title: In Depth Look at Luka Doncic's Performance
+title: Donchich title
+lang: hr
+lang-ref: doncic
+url: doncic
 ---
 
 Luka Dončić has arguably been rookie of the year thus far in 2018–19 season,
@@ -54,5 +57,4 @@ One thing I didn't really mention that much is that his TS% is very high. And th
 The thing I didn't manage to visualize properly is Luka's BPM (Box Plus Minus). He currently sits at 3.7 which gives him 11th spot among all rookies during three point era. To be honest those advanced statistics are kind of iffy, I didn't go into details to study them, but in general I'd say that BPM is really good indicator of predicting who will develop into All-Star level player and more.
 
 
-The entire code for generating all these charts can be found in [jupyter notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/doncic_analysis/doncic_analysis.ipynb). I have more stuff about basketball analytics on my [github repository](https://github.com/danchyy/Basketball_Analytics). 
-
+The entire code for generating all these charts can be found in [jupyter notebook](https://github.com/danchyy/Basketball_Analytics/blob/master/Scripts/2018_19_season/doncic_analysis/doncic_analysis.ipynb). I have more stuff about basketball analytics on my [github repository](https://github.com/danchyy/Basketball_Analytics).
