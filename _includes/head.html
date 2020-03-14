@@ -1,11 +1,10 @@
-{% if page.layout != 'index' %}
-  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-  {% if posts.size == 0 %}
-    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-  {% endif %}
-  {% if posts.size > 1 %}
-    {% for post in posts %}
-  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.url }}{{ post.url }}" />
-    {% endfor %}
-  {% endif %}
-{% endif %}
+<div class="custom-select lang-bar">
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown</button>
+    <div class="dropdown-content">
+      {% for lang in site.data.languages %}
+        <a href="{{ site.url }}/{{ lang[0] }}">{{ lang[1].label }}</>
+      {% endfor %}
+    </div>
+  </div>
+</div>

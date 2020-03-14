@@ -229,7 +229,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 5px;
     color: $orange;
     text-align: right;
     font-weight: 300;
@@ -291,6 +291,52 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+// Dropdown menu
+
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: $bballGray;
+  color: $orange;
+  border: none;
+  font: inherit;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: $bballGray;
+  // border: 1px solid $lightOrange;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: $orange;
+  margin-left: 0px;
+  padding: 12px;
+  letter-spacing: 1px;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: $bballMidGray}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% include head.html %}
+    <!-- {% include head.html %} -->
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -20,20 +20,30 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
+            <nav>
+              <div class="dropdown">
+                <button class="dropbtn">Language</button>
+                <div class="dropdown-content">
+                {% for lang in site.data.languages %}
+                    <a href="{{ site.url }}{{ lang[0] }}">{{ lang[1].label }}</>
+                {% endfor %}
+                </div>
+              </div>
+              {% if page.lang == 'hr' or page.lang == 'en' %}
+                  {% assign language = page.lang %}
+                  <a href="{{ site.url }}{{ page.lang }}/about">About</a>
+              {% else %}
+                  {% assign language = 'en' %}
+                  <a href="{{ site.url }}en/about">About</a>
+              {% endif %}
+            </nav>
 
-          <div class="site-info">
-            <img src="{{ site.avatar }}" class="site-avatar"/>
-            <h1 class="site-name"><a href="{{ site.url }}">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+            <div class="site-info">
+                <img src="{{ site.avatar }}" class="site-avatar"/>
+                <h1 class="site-name"><a href="{{ site.url }}">{{ site.name }}</a></h1>
+                <p class="site-description">{{ site.data.translations["description"][language] }}</p>
+            </div>
 
-          <nav>
-            {% if page.lang == 'hr' or page.lang == 'en' %}
-                <a href="{{ site.url }}{{ page.lang }}/about">About</a>
-            {% else %}
-                <a href="{{ site.url }}en/about">About</a>
-            {% endif %}
-          </nav>
         </header>
       </div>
     </div>
