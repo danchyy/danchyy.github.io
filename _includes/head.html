@@ -5,7 +5,7 @@
   {% endif %}
   {% if posts.size > 1 %}
     {% for post in posts %}
-  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.baseurl }}{{ post.url }}" />
+  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.url }}{{ post.url }}" />
     {% endfor %}
   {% endif %}
 {% endif %}
