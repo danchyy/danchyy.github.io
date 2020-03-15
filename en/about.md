@@ -5,12 +5,28 @@ lang: en
 lang-ref: about
 ---
 
-Computer Science student from Croatia. Currently on my 5th and final year of study. Fields of interest and research are Machine Learning, as well as some general Data wrangling and visualisation. This blog and my focus on working with data and visualising data is on basketball, mostly NBA which has loads of data around the web.
+### About the Site
 
-### Contact me
+This site is dedicated towards delivering quality, in depth and detailed posts about basketball. Most posts, if not all contain some charts, which are generated using the data from [stats.nba.com](https://stats.nba.com/). All of the data shown on the charts belongs to them, and I do not own any data. Videos are also retrieved through same site and they also aren't in my ownership.
 
-* [danielbratulic@gmail.com](mailto:danielbratulic@gmail.com)
+As far as charts go, I generate them using Python and mostly package called matplotlib. Also, code for most charts can be found at my [repository](https://github.com/danchyy/Basketball_Analytics/).
 
-* My personal [github](https://github.com/danchyy) account
+### BBallytics
+
+Originally this site started as an [Instagram page](https://www.instagram.com/bballytics), where I posted various charts. That evolved to a [Facebook page](https://www.facebook.com/bballytics) since more detailed posts can be written there.
+
+All the content which you will read here, you can read on [Facebook page](https://www.facebook.com/bballytics) as well, while the Instagram page is a bit rusty.
+
+### Contact
+
+I work full time as Software Engineer, but sports are my passion, especially basketball, and I try to connect my passion with my profession through projects like this.
+
+If you wish to contact me, below is my contact information:
+
+* Contact me through my Mail: [danielbratulic@gmail.com](mailto:danielbratulic@gmail.com)
+
+* My [github](https://github.com/danchyy) account
 
 * My [linkedin](https://www.linkedin.com/in/daniel-bratulic/) profile
+
+* My [twitter](https://twitter.com/daniel_bratulic) profile
