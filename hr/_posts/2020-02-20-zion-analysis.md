@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zion Williamson je dašak svježine i old school košarke.
+title: Zion Williamson je dašak svježine i old school košarke
 lang: hr
 lang-ref: zion-freshness
 
