@@ -21,21 +21,21 @@
       <div class="container">
         <header class="masthead clearfix">
             <nav>
+                {% if page.lang == 'hr' or page.lang == 'en' %}
+                  {% assign language = page.lang %}
+                  {% assign aboutVar = "about" %}
+                {% else %}
+                  {% assign language = 'en' %}
+                {% endif %}
               <div class="dropdown">
-                <button class="dropbtn">Language</button>
+                <button class="dropbtn">{{ site.data.translations["language"][language]}}</button>
                 <div class="dropdown-content">
                 {% for lang in site.data.languages %}
                     <a href="{{ site.url }}{{ lang[0] }}">{{ lang[1].label }}</>
                 {% endfor %}
                 </div>
               </div>
-              {% if page.lang == 'hr' or page.lang == 'en' %}
-                  {% assign language = page.lang %}
-                  <a href="{{ site.url }}{{ page.lang }}/about">About</a>
-              {% else %}
-                  {% assign language = 'en' %}
-                  <a href="{{ site.url }}en/about">About</a>
-              {% endif %}
+                  <a href="{{ site.url }}{{ language }}/{{ site.data.translations[aboutVar][language]}}">About</a>
             </nav>
 
             <div class="site-info">
