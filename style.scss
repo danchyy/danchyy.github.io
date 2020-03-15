@@ -70,6 +70,10 @@ p {
       display: block;
       margin: 0 auto;
       max-width: 100%;
+      .title-img {
+          max-width: 50%;
+          max-height: 50%;
+      }
   }
 }
 

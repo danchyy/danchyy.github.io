@@ -5,7 +5,7 @@ lang: hr
 lang-ref: sabonis-leader
 ---
 
-![](/assets/sabonis_pacers/sabonis_img.jpg)
+![](/assets/sabonis_pacers/sabonis_img.jpg){:.title-img}
 
 Domantas Sabonis je ove sezone glavni igrač Indiana Pacersa koji su trenutno na solidnoj 5. poziciji Istočne konferencije. U sezoni u kojoj još uopće nije igrao Oladipo te u kojoj su jedan dio propustili Myles Turner i Malcolm Brogdon istaknuo se kao vođa ekipa sa samo 23 godine.
 
