@@ -5,7 +5,7 @@ lang: en
 lang-ref: sabonis-leader
 ---
 
-![](/assets/sabonis_pacers/sabonis_img.jpg){:.title-img}
+![](/assets/sabonis_pacers/sabonis_img.jpg)
 
 Domantas Sabonis is a key player of the Indiana Pacers this season, currently ranked No. 5 in the Eastern Conference. In a season where Oladipo hasn't played yet and some key players missed some periods of time such as Myles Turner and Malcolm Brogdon, Sabonis stood out as the team leader at just 23 years old.
 
