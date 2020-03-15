@@ -12,6 +12,8 @@ of achieving this year's playoffs with currently standing only 5.5 games out of 
 He is putting up amazing numbers that match up with some of the all time greats and currently best active players.
 I will touch on that in detail later on, for now there are some specific areas of his game which I want to explore.
 
+<!--more-->
+
 ## Clutch Time is Luka Time
 
 Whenever I went on to watch highlights of Luka's performances (I live in Croatia, Europe, so unfortunately
