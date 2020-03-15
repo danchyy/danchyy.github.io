@@ -11,6 +11,8 @@ description: Welcome to BBallytics! This site is all about quality, in depth and
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/bballytics_logo.jpg
 
+excerpt_separator: <!--more-->
+
 #
 # Flags below are optional
 #
