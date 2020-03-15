@@ -106,7 +106,7 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
-ul li::before {
+ul li p::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $lightOrange; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
