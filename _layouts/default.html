@@ -23,7 +23,6 @@
             <nav>
                 {% if page.lang == 'hr' or page.lang == 'en' %}
                   {% assign language = page.lang %}
-                  {% assign aboutVar = "about" %}
                 {% else %}
                   {% assign language = 'en' %}
                 {% endif %}
@@ -35,7 +34,7 @@
                 {% endfor %}
                 </div>
               </div>
-                  <a href="{{ site.url }}{{ language }}/{{ site.data.translations[aboutVar][language]}}">About</a>
+                  <a href="{{ site.url }}{{ language }}/about">{{ site.data.translations["about"][language]}}</a>
             </nav>
 
             <div class="site-info">
