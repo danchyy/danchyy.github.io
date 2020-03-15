@@ -1,5 +1,5 @@
 ---
 layout: index
-title: bballytics
+title: BBallytics
 lang: en
 ---
