@@ -7,8 +7,8 @@ lang-ref: long-range-dame-trae
 
 ![](/assets/long_range_shooters/trae_dame.png)
 
-It is already wide known that the number of threes is increasing significantly throughout the entire NBA with every year. This has become a necessary skill for virtually all positions.
-But there are more and more players playing in some new, crazier way. The world was primary
+It is already widely known that the number of threes is increasing significantly throughout the entire NBA with every year. This has become a necessary skill for virtually all positions.
+But there are more and more players playing in some new, crazier way. The world was primarily 
 impressed with Steph Curry and his long range threes, but today some players take that long-range shooting to an even greater level.
 
 <!--more-->
