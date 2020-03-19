@@ -25,20 +25,19 @@
       <div class="container">
         <header class="masthead clearfix">
             <nav>
-              <div class="dropdown">
-                <button class="dropbtn">{{ site.data.translations["language"][language]}}</button>
-                <div class="dropdown-content">
-                {% for lang in site.data.languages %}
-                    <a href="{{ site.url }}{{ lang[0] }}">{{ lang[1].label }}</>
+                {% include language.html %}
+                {% assign aboutPages=site.pages | where:"lang-ref", "about" | where:"lang", language %}
+                {% for cur in aboutPages %}
+                    <a href="{{ site.url }}{{ cur.url }}">{{ site.data.translations["about"][language]}}</a>
                 {% endfor %}
-                </div>
-              </div>
-                  <a href="{{ site.url }}{{ language }}/about">{{ site.data.translations["about"][language]}}</a>
             </nav>
 
             <div class="site-info">
                 <img src="{{ site.avatar }}" class="site-avatar"/>
-                <h1 class="site-name"><a href="{{ site.url }}{{language}}">{{ site.name }}</a></h1>
+                {% assign indexPages=site.pages | where:"lang-ref", "index" | where:"lang", language %}
+                {% for cur in indexPages %}
+                    <h1 class="site-name"><a href="{{ site.url }}{{ cur.url }}">{{ site.name }}</a></h1>
+                {% endfor %}
                 <p class="site-description">{{ site.data.translations["description"][language] }}</p>
             </div>
 

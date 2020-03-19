@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O Stranici
-lang: en
+lang: hr
 lang-ref: about
 ---
 

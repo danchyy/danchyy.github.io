@@ -1,0 +1,14 @@
+{% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+{% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+{% endif %}
+{% if posts.size > 1 %}
+    <div class="dropdown">
+      <button class="dropbtn">{{ site.data.translations["language"][language]}}</button>
+      <div class="dropdown-content">
+      {% for post in posts %}
+          <a href="{{ site.url }}{{ post.url }}">{{ site.data.languages[post.lang].label }}</a>
+      {% endfor %}
+      </div>
+    </div>
+{% endif %}
