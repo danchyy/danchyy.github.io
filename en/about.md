@@ -7,7 +7,7 @@ lang-ref: about
 
 ### About the Site
 
-This site is dedicated to delivering quality, in-depth and detailed posts about basketball. Most posts, if not all contain some charts, which are generated using the data from [stats.nba.com](https://stats.nba.com/) or [basketball-reference](https://www.basketball-reference.com/). All of the data shown on the charts belongs to them, and I do not own any data. Videos are also retrieved through same site and they also aren't in my ownership.
+This site is dedicated to delivering quality, in-depth and detailed posts about basketball and basketball analytics. Most posts, if not all contain some charts, which are generated using the data from [stats.nba.com](https://stats.nba.com/) or [basketball-reference](https://www.basketball-reference.com/). All of the data shown on the charts belongs to them, and I do not own any data. Videos are also retrieved through same site and they also aren't in my ownership.
 
 As far as charts go, I generate them using Python and mostly package called matplotlib. Also, code for most charts can be found at my [repository](https://github.com/danchyy/Basketball_Analytics/).
 
@@ -15,7 +15,8 @@ As far as charts go, I generate them using Python and mostly package called matp
 
 Originally this site started as an [Instagram page](https://www.instagram.com/bballytics), where I posted various charts. That evolved to a [Facebook page](https://www.facebook.com/bballytics) since more detailed posts can be written there.
 
-All the content which you will read here, you can read on [Facebook page](https://www.facebook.com/bballytics) as well, while the Instagram page is a bit rusty.
+All the content which you will read here, you can read on both of those social media
+profiles.
 
 ### Contact
 

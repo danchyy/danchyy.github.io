@@ -1,6 +1,6 @@
 ---
 layout: index
-title: BBallytics
+title: Basketball Analytics
 lang: hr
 lang-ref: index
 ---
