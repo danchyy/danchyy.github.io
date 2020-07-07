@@ -76,6 +76,19 @@ p {
   }
 }
 
+table, td {
+    color: $dirtyWhite;
+    border: 1px solid $dirtyWhite;
+    padding: 5px;
+}
+
+th {
+    color: $lightOrange;
+    border: 1px solid $dirtyWhite;
+    padding: 5px;
+}
+
+
 a {
   color: $lightOrange;  // light orange
   text-decoration: none;
