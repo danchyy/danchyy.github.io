@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Može li nevjerojatna obrambena svestranost napokon donijeti DPOY nagradu Anthonyju Davisu?
+title: Može li obrambena svestranost napokon donijeti DPOY nagradu Anthonyju Davisu?
 lang: hr
 lang-ref: davis-dpoy
 url: davis-dpoy
