@@ -18,17 +18,16 @@
     {% endif %}
 
     <!-- Twitter cards -->
-    {% if page.summary %}
-    <meta name="twitter:description" content="{{ page.summary }}">
+    <meta name="twitter:widgets:theme" content="light">
+    <meta name="twitter:site"    content="@daniel_bratulic">
+    <meta name="twitter:creator" content="@daniel_bratulic">
+
+    {% if page.excerpt %}
+    <meta name="twitter:description" content="{{ page.excerpt }}">
+    <meta name="twitter:card"  content="{{excerpt}}">
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:card"  content="{{site.description}}">
     {% endif %}
 
-    {% if page.image %}
-    <meta name="twitter:card"  content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-    {% else %}
-    <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="{{ site.title_image }}">
-    {% endif %}
     <!-- end of Twitter cards -->
