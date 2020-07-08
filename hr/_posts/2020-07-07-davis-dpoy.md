@@ -4,6 +4,7 @@ title: Može li obrambena svestranost napokon donijeti DPOY nagradu Anthonyju Da
 lang: hr
 lang-ref: davis-dpoy
 url: davis-dpoy
+twitter_img: /assets/davis_defense/davis_mini_2.png
 ---
 
 ![](/assets/davis_defense/davis_mini_2.png)

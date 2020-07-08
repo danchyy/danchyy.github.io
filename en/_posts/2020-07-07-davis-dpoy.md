@@ -4,6 +4,7 @@ title: Can AD's defensive versatility finally bring him the DPOY award?
 lang: en
 lang-ref: davis-dpoy
 url: davis-dpoy
+twitter_img: /assets/davis_defense/davis_mini_2.png
 ---
 
 ![](/assets/davis_defense/davis_mini_2.png)
