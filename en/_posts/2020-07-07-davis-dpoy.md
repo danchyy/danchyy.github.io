@@ -68,6 +68,18 @@ And while the overall Pelicans' record might be bad, their defensive side was ev
 To conclude AD's chapter with Pelicans, it is safe to say that he only had one real opportunity at the DPOY award, back in 2017/18 season, when he was amazing on the offensive side of the ball as well.
 
 
+|Player Name| Defensive Efficiency (Playoff)   | Defensive Efficiency (vs Miami)  |   
+|---|---|---|
+| Jaylen Brown   | 3.9/11.6 (34%)  | 3.0/11.7 (25.7%)!!! |
+| Jayson Tatum  | 4.3/11.5 (37.3%)  |  5.7/12.7 (44.7%) |
+| Marcus Smart  | 3.9/9.1 (42.2%)  | 6.0/12.7 (47.4%) |
+| Kemba Walker | 5.8/14.0 (41.3%) | 7.0/15.0 (46.7%) |
+
+
+
+
+
+
 ## Back to the Present Time
 
 Unlike the previous seasons, AD is finally on the Championship worthy team. The team that excels at both offense and defense. Lakers are 3rd in Defensive Rating, and currently leading the Western Conference in standings. And Davis plays a big part in that, let's take a look at how.
