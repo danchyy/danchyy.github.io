@@ -9,7 +9,7 @@ twitter_img: /assets/breakouts/breakouts.jpg
 
 ![](/assets/breakouts/breakouts.jpg)
 
-Predsezona je korisna za nekoliko stvari, a jedna od njih je projeciranje igrača koji bi mogli
+Predsezona je korisna za nekoliko stvari, a jedna od njih je projiciranih igrača koji bi mogli
 iskočiti u idućoj sezoni. Iako nisam ovo provjerio kroz nekakve brojke ili modele (jer je jednostavno jako malo utakmica), "od oka" se čini da ovo vrijedi već nekoliko sezona zaredom.
 
 <!--more-->
@@ -41,7 +41,7 @@ Ovaj momak je eksplodirao nakon što je Drummond prošle sezone tradean u Cavali
 
 Uz to, Wood nije loš ni na obrambenoj strani gdje je bilježio 0.9 ukradenih po utakmici te 1.1 blokadu po utakmici. Tokom offseasona prešao je u ekipu Houston Rocketsa te će ondje zauzeti startnu poziciju na četvorci (ili možda petici, ako se odluče za small ball).
 
-U jedinoj utakmici koju je igrao za sada je uistinu briljirao. U pick and roll/pop igri s Hardenom je zabijao na sve moguće načine, šut, polaganje, zakucavanje, potpuni repertoar. Prisutstvo Hardena i Walla će sigurno dodatno podignuti njegovu igru na vrlo vjerojatno projeciranih 20/10.
+U jedinoj utakmici koju je igrao za sada je uistinu briljirao. U pick and roll/pop igri s Hardenom je zabijao na sve moguće načine, šut, polaganje, zakucavanje, potpuni repertoar. Prisutstvo Hardena i Walla će sigurno dodatno podignuti njegovu igru na vrlo vjerojatno projiciranih 20/10.
 
 #### Fantasy utjecaj
 
