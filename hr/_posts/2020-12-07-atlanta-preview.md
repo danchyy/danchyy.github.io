@@ -57,4 +57,4 @@ Uz Younga će tu biti i Rondo koji je majstor u pick and roll akcijama te rookie
 
 ## Zaključak
 
-Kao što sam spomenuo u prvoj rečenici, Hawksi su složili vrlo respektabilnu momčad te bi mogli (čak i morali) konkurirati za playoff ove godine. Još uvijek je tu nekih nedoumica oko obrambene sposobonosti nekih igrača, no njihov napad bi trebao biti jedan vrlo opasni podmazani stroj koji gazi sve pred sobom. 
+Kao što sam spomenuo u prvoj rečenici, Hawksi su složili vrlo respektabilnu momčad te bi mogli (čak i morali) konkurirati za playoff ove godine. Još uvijek je tu nekih nedoumica oko obrambene sposobonosti nekih igrača, no njihov napad bi trebao biti jedan vrlo opasni podmazani stroj koji gazi sve pred sobom.
