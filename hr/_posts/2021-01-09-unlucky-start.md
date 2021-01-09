@@ -9,7 +9,7 @@ twitter_img: /assets/unlucky_start/wide_open_table.jpg
 
 ![](/assets/unlucky_start/wide_open_table.png)
 
-Neke ekipe su započele iznenađujući dobre, a neke iznenađujući loše pa ako bacite pogled na ovu tablicu pa zatim na pravu tablicu NBA lige vidjet ćete da ekipe koje su ovdje na vrhu imaju vrlo loš ishod (Washington 2-7, Denver 3-5, Minnesota 2-6).
+Neke ekipe su započele iznenađujući dobre, a neke iznenađujuće loše pa ako bacite pogled na ovu tablicu pa zatim na pravu tablicu NBA lige vidjet ćete da ekipe koje su ovdje na vrhu imaju vrlo loš ishod (Washington 2-7, Denver 3-5, Minnesota 2-6).
 
 Isto tako vrijedi i za ekipe na dnu tablice, Hawksi na pravoj tablici imaju 4-4, a Knicksi neočekivanih 5-4. Pročitajte u nastavku o čemu je riječ u ovoj tablici.
 
