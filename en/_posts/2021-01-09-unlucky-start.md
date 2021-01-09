@@ -24,7 +24,7 @@ This table is all about Wide Open Shots. Shot is classified as wide open when th
 
 #### WIDE OPEN OPP FG3% VS TARGET TEAM
 
-I'll first explain ALLOWED WO FG3% column, since it is easier to explain it. That is basically **FG3% of opponent's wide open three pointers against target team**. If we observe Wizards only, they "allow" 49.3% (7.7 FG3M out of 15.6 FG3A) of opponent's wide open triples.
+I'll first explain "WIDE OPEN OPP FG3% VS ALL TEAMS" column, since it is easier to explain it. That is basically **FG3% of opponent's wide open three pointers against target team**. If we observe Wizards only, they "allow" 49.3% (7.7 FG3M out of 15.6 FG3A) of opponent's wide open triples.
 
 These numbers are identical to numbers on [this link](https://www.nba.com/stats/teams/opponent-shots-closest-defender/?Season=2020-21&SeasonType=Regular%20Season&CloseDefDistRange=6%2B%20Feet%20-%20Wide%20Open).
 

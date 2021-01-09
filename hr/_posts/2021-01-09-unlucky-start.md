@@ -25,7 +25,7 @@ U ovoj tablici je riječ o širom otvorenim šutevima. To su šutevi kada je naj
 
 #### WIDE OPEN OPP FG3% VS TARGET TEAM
 
-Prvo ću objasniti ALLOWED WO FG3% stupac, pošto ga je lakše za objasniti. On označava **FG3% na širom otvorenim tricama protivničkih timova protiv ciljane ekipe**.
+Prvo ću objasniti "WIDE OPEN OPP FG3% VS TARGET TEAM" stupac, pošto ga je lakše za objasniti. On označava **FG3% na širom otvorenim tricama protivničkih timova protiv ciljane ekipe**.
 
 Dakle ako gledamo Washington Wizardse ovdje, oni svojim protivnicima po utakmici "dozvoljavaju" 49.3% (7.7 zabijenih od 15.6 upućenih šuteva) uspješnosti na širom otvorenim šutevima za 3 poena.
 
@@ -33,7 +33,7 @@ Ove identične brojke možete vidjeti na ovom [linku](https://www.nba.com/stats/
 
 #### WIDE OPEN OPP FG3% VS ALL TEAMS
 
-Stupac WO FG3% BY OPP TEAMS predstavlja nešto drugo, i teže za objasniti. Dakle dosadašnji protivnici Wizardsa su bili: ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN.
+Stupac "WIDE OPEN OPP FG3% VS ALL TEAMS" predstavlja nešto drugo, i teže za objasniti. Dakle dosadašnji protivnici Wizardsa su bili: ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN.
 
 Uzet ćemo sve te protivnike i njihove UPUĆENE i ZABIJENE širom otvorene trice u dosadašnjoj sezoni:
 
