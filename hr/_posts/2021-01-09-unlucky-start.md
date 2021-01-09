@@ -9,22 +9,33 @@ twitter_img: /assets/unlucky_start/wide_open_table.jpg
 
 ![](/assets/unlucky_start/wide_open_table.png)
 
-Neke ekipe su započele iznenađujući dobre, a neke iznenađujući loš pa ako bacite pogled na ovu tablicu pa zatim na pravu tablicu u NBA ligi vidjet ćete da ekipe koje su ovdje na vrhu imaju vrlo loš score (Washington 2-7, Denver 3-5, Minnesota 2-6).
+Neke ekipe su započele iznenađujući dobre, a neke iznenađujući loše pa ako bacite pogled na ovu tablicu pa zatim na pravu tablicu NBA lige vidjet ćete da ekipe koje su ovdje na vrhu imaju vrlo loš ishod (Washington 2-7, Denver 3-5, Minnesota 2-6).
 
-Isto tako vrijedi i za ekipe na dnu tablice, Hawksi imaju 4-4, a Knicksi neočekivanih 5-4. Pročitajte u nastavku o čemu je riječ u ovoj tablici.
+Isto tako vrijedi i za ekipe na dnu tablice, Hawksi na pravoj tablici imaju 4-4, a Knicksi neočekivanih 5-4. Pročitajte u nastavku o čemu je riječ u ovoj tablici.
 
 <!--more-->
 
 
 ## Širom otvoreni šutevi
 
-U ovoj tablici je riječ o širom otvorenim šutevima. To su šutevi kada je najbliži obrambeni igrač udaljen više od 1.8 metara (odnosno 6 stopa - Feet). Kod takvih šuteva možemo reći da obrana više i nema nekog utjecaja jer kada je igrač udaljen 1.8 metara (minimalno) šuter ima vrlo jednostavnu situaciju, čak i uz dignutu ruku, odnosno "contested" šut. Na kraju krajeva, možete se i sami uvjeriti u to, pitajte nekoga da stane otprilike toliko ispred vas i šutirajte, nećete imati problema.
+U ovoj tablici je riječ o širom otvorenim šutevima. To su šutevi kada je najbliži obrambeni igrač udaljen više od 1.8 metara (odnosno 6 stopa - *feet*). Kod takvih šuteva možemo reći da obrana i nema nekog utjecaja jer kada je obrambeni igrač udaljen (minimalno) 1.8 metara od šutera, šuter može biti sretan i mirne duše uputiti šut. Na kraju krajeva, možete se i sami uvjeriti u to, pitajte nekoga da stane otprilike toliko ispred vas i šutirajte, nećete imati problema.
 
 ## Definicija metrika/statistika
 
-Prvo ću objasniti ALLOWED WO FG3% stupac, pošto ga je lakše za objasniti. On označava **FG3% na otvorenim tricama protivničkih timova protiv ciljane ekipe**. Dakle ako gledamo Washington Wizardse ovdje, oni svojim protivnicima po utakmici "dozvoljavaju" 49.3% na širom otvorenim šutevima za 3 poena.
 
-Stupac WO FG3% BY OPP TEAMS predstavlja nešto drugo, i teže za objasniti. Dakle dosadašnji protivnici Wizardsa su bili ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN. Dakle uzet ćemo sve te protivnike i njihove pokušaje i zabijene širom otvorene trice u dosadašnjoj sezoni (brojke predstavljaju broj šuteva/zabijenih po utakmici):
+#### ALLOWED WO FG3%
+
+Prvo ću objasniti ALLOWED WO FG3% stupac, pošto ga je lakše za objasniti. On označava **FG3% na širom otvorenim tricama protivničkih timova protiv ciljane ekipe**.
+
+Dakle ako gledamo Washington Wizardse ovdje, oni svojim protivnicima po utakmici "dozvoljavaju" 49.3% (7.7 zabijenih od 15.6 upućenih šuteva) uspješnosti na širom otvorenim šutevima za 3 poena.
+
+Ove identične brojke možete vidjeti na ovom [linku](https://www.nba.com/stats/teams/opponent-shots-closest-defender/?Season=2020-21&SeasonType=Regular%20Season&CloseDefDistRange=6%2B%20Feet%20-%20Wide%20Open).
+
+#### WO FG3% BY OPP TEAMS
+
+Stupac WO FG3% BY OPP TEAMS predstavlja nešto drugo, i teže za objasniti. Dakle dosadašnji protivnici Wizardsa su bili: ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN.
+
+Uzet ćemo sve te protivnike i njihove UPUĆENE i ZABIJENE širom otvorene trice u dosadašnjoj sezoni:
 
 
 * ORL -> FG3M: 5.22, FG3A: 14.89
@@ -35,7 +46,9 @@ Stupac WO FG3% BY OPP TEAMS predstavlja nešto drugo, i teže za objasniti. Dakl
 * BKN -> FG3M: 6.11, FG3A: 15.78
 
 
-I sada kada zbrojimo ove brojeve dobijemo FG3M: 37.17 i FG3A: 95.91, a uspješnost tih šuteva je: `37.17 / 95.91 = 0.3876`, odnosno `38.76%`. Dakle ova metrika predstavlja **FG3% na otvorenim tricama protivničkih timova ciljane ekipe u svim utakmicama**.
+I sada kada zbrojimo ove brojeve dobijemo FG3M: 37.17 i FG3A: 95.91, a uspješnost tih šuteva je: `37.17 / 95.91 = 0.3876`, odnosno `38.76%`.
+
+Dakle ova metrika predstavlja **FG3% na širom otvorenim tricama protivničkih timova ciljane ekipe u svim utakmicama**.
 
 ## Alternativa tablici
 
@@ -43,9 +56,9 @@ Alternativa ovoj tablici može biti *Scatter Plot*.
 
 ![](/assets/unlucky_start/wide_open_3pt_luck_hr.png)
 
-Kosa crta predstavlja idealan slučaj, odnosno kada su vrijednosti na x-osi i y-osi jednake. Možete vidjeti iz ovoga, ali i tablice gore da kod Memphisa sreća nema nikakav utjecaj, a Detroit i Boston su jako blizu tome.
+Kosa crta predstavlja idealan slučaj, odnosno kada su vrijednosti na x-osi i y-osi jednake. Možete vidjeti iz ovoga, ali i tablice gore da kod Memphisa sreća nema nikakav utjecaj, a kod Clevelanda, Detroita, Bostona i OKC gotovo pa da nema utjecaja.
 
-S druge strane, ekstremi su već spomenuti Hawksi i Knicksi. Oni "dozvoljavaju" daleko najmanji FG3% na širom otvorenim tricama iako u pravilu njihovi protivnici šutiraju sasvim dobro na takvim šutevima. Možda je to naznaka polaganog pada Knicksa i Hawksa...
+S druge strane, pozitivni ekstremi su već spomenuti Hawksi i Knicksi. Oni "dozvoljavaju" daleko najmanji FG3% na širom otvorenim tricama iako u pravilu njihovi protivnici šutiraju sasvim dobro na takvim šutevima. Možda je to naznaka da će Knicksi i Hawksi regresirati na pravoj tablici...
 
 S druge strane ekstrema su Wizardsi. Možda je Beal u krivu i mogli bi [čuvati "parkirani automobil"](https://bleacherreport.com/articles/2926076-bradley-beal-says-wizards-cant-guard-a-parked-car-after-loss-to-celtics), ali jednostavno nemaju sreće te čini se da svaki protivnički igrač poprimi oblik Stepha Curryja kada igra protiv Wizardsa.  
 
@@ -69,3 +82,7 @@ Ali to je normalna situacija, jer takva devijacija se javljala svake sezone na p
 | 2018-19 | 0.04 | 0.02 |
 | 2019-20 | 0.04 | 0.02 |
 | 2020-21 | 0.04 | ? |
+
+## Zaključak
+
+S obzirom na sve napisano, možemo očekivati da će se ovako velike razlike smiriti te da će Knicksima i Hawksima isteći sreća i da će im se ukupni skor pogoršati. S druge strane, možemo prepotstaviti da bi Washingtonu ubrzo trebali krenuti i da bi mogli uloviti koju pobjedu. Brzo ćemo saznati, imam li uistinu pravo s ovakvim zaključcima...
