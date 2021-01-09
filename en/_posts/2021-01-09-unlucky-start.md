@@ -22,13 +22,13 @@ This table is all about Wide Open Shots. Shot is classified as wide open when th
 
 ## Definition of Metrics/Statistics
 
-#### ALLOWED WO FG3%
+#### WIDE OPEN OPP FG3% VS TARGET TEAM
 
 I'll first explain ALLOWED WO FG3% column, since it is easier to explain it. That is basically **FG3% of opponent's wide open three pointers against target team**. If we observe Wizards only, they "allow" 49.3% (7.7 FG3M out of 15.6 FG3A) of opponent's wide open triples.
 
 These numbers are identical to numbers on [this link](https://www.nba.com/stats/teams/opponent-shots-closest-defender/?Season=2020-21&SeasonType=Regular%20Season&CloseDefDistRange=6%2B%20Feet%20-%20Wide%20Open).
 
-#### WO FG3% BY OPP TEAMS
+#### WIDE OPEN OPP FG3% VS ALL TEAMS
 
 This metric is something else, and it is a bit tougher to explain, so I'll try to use Wizards as an example once again. Their opponents thus far have been: ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN.
 
@@ -81,4 +81,4 @@ But such high deviation is expected at the start of the season, as it normalizes
 
 ## Conclusion
 
-With all that was written here, we can expect that such big differences in opponent's wide open 3pt% will reduce, that Knicks and Hawks are going to regress and the Wizards should win a game or two in near future. 
+With all that was written here, we can expect that such big differences in opponent's wide open 3pt% will reduce, that Knicks and Hawks are going to regress and the Wizards should win a game or two in near future.

@@ -23,7 +23,7 @@ U ovoj tablici je riječ o širom otvorenim šutevima. To su šutevi kada je naj
 ## Definicija metrika/statistika
 
 
-#### ALLOWED WO FG3%
+#### WIDE OPEN OPP FG3% VS TARGET TEAM
 
 Prvo ću objasniti ALLOWED WO FG3% stupac, pošto ga je lakše za objasniti. On označava **FG3% na širom otvorenim tricama protivničkih timova protiv ciljane ekipe**.
 
@@ -31,7 +31,7 @@ Dakle ako gledamo Washington Wizardse ovdje, oni svojim protivnicima po utakmici
 
 Ove identične brojke možete vidjeti na ovom [linku](https://www.nba.com/stats/teams/opponent-shots-closest-defender/?Season=2020-21&SeasonType=Regular%20Season&CloseDefDistRange=6%2B%20Feet%20-%20Wide%20Open).
 
-#### WO FG3% BY OPP TEAMS
+#### WIDE OPEN OPP FG3% VS ALL TEAMS
 
 Stupac WO FG3% BY OPP TEAMS predstavlja nešto drugo, i teže za objasniti. Dakle dosadašnji protivnici Wizardsa su bili: ORL (x2), MIN, CHI (x2), BOS, PHI (x2), BKN.
 
