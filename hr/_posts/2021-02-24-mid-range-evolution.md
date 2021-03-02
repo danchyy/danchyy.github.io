@@ -4,7 +4,7 @@
 
 Započet ću ovaj članak s jednim grafom.
 
-![](../../assets/mid_range/lokacije_vrijeme.png)
+![](/assets/mid_range/lokacije_vrijeme.png)
 
 Na njemu možete vidjeti drastični pad šuteva po utakmici s područja poludistance. S druge strane možete vidjeti drastični rast šuteva za 3 poena s "Above The Break" područja (područje svake trice koja nije u kutu). Ostatak područja nema toliko drastični rast/pad, iako ima razlike u broju šuteva u "Restricted Area" i samom reketu.
 
@@ -14,11 +14,11 @@ Utah Jazz, trenutno najbolja ekipa u cijeloj ligi igra "analitički" savršeno, 
 
 No to ne vrijedi samo za Utah, sve ekipe su u nekoj mjeri smanjile broj šuteva s tog područja. Na sljedećem grafu možete vidjeti 100 najučestalijih lokacija šuteva na razini cijele lige.
 
-![](../../assets/mid_range/najcesce_lokacije_suta.png)
+![](/assets/mid_range/najcesce_lokacije_suta.png)
 
 A na sljedećem grafu možete vidjeti 100 najučestalijih lokacija šuteva za svaku pojedinu ekipu.
 
-![](../../assets/mid_range/najucestalije_lokacije_suta.png)
+![](/assets/mid_range/najucestalije_lokacije_suta.png)
 
 Spursi možda najviše oskaču, iako i kod njih ima puno manje mid-rangea no prošlih sezon. No ovaj graf je jako zanimljiv i vide se neke omiljene lokacije pojedinih igrača.
 
@@ -40,7 +40,7 @@ Ova prethodna "mini-lista" je zanimljiva jer nas dovodi do sljedeće teme i razl
 
 Zvijezde ekipa, odnosno nositelji igre se oslanjaju na poludistancu kao jako bitno i opasno oružje po protivničku ekipu. Naime to možemo iščitati iz sljedećeg grafa.
 
-![](../../assets/mid_range/neasistirani_lokacije.png)
+![](/assets/mid_range/neasistirani_lokacije.png)
 
 Ukupni udio neasistiranih šuteva je konstantno rastao kroz proteklih 20 godina, tako i ove sezone. To je samo potvrda onoga što smo vidjeli na grafu koji prikazuje najučestalije lokacije za svih 30 ekipa, gdje smo vidjeli "signature" šuteve za igrače poput Kawhija, Chrisa Paula itd... Oni će zbog svoje mogućnosti kreacije često imati otvorene (ili bolje reći, otvorenije) šuteve na poludistanci koje će svakako uzeti.
 
@@ -50,7 +50,7 @@ Odnosno, možemo reći da oni igrači koji su prestali šutirati s mid-rangea su
 
 Efikasnost je razlog tom padu.
 
-![](../../assets/mid_range/prosjek_cijela_liga_2000_01.png)
+![](/assets/mid_range/prosjek_cijela_liga_2000_01.png)
 
 Na prvom grafu možete vidjeti broj šuteva i efikasnost šuta u 2000-01 sezni. Čak ~20000 šuteva s "daleke poludistance" uz čelnu liniju (ilitiga "baseline jumpers"), no njihova efikasnost na razini cijele lige je bila samo 40% (možemo zaokružiti na veću brojku), dok je učinkovitost u tricama iz kuteva jest oko 38%.
 
@@ -68,7 +68,7 @@ I jedan indirektni efekt koji postižu je taj magični "spacing". Teren je puno 
 
 Podjela šuteva je danas puno drukčija kao što sam već prvim grafom pokazao, a samim time i efikasnost šuta.
 
-![](../../assets/mid_range/prosjek_cijela_liga_2020_21.png)
+![](/assets/mid_range/prosjek_cijela_liga_2020_21.png)
 
 NBA igrači više i vježbaju šuteve s udaljenosti za 3 poena pa je samim time i efikasnost šuta za 3 poena izrazito porasla. Što znači da je i efikasnost šuta (pogotovo trice u kutevima) porasla na otprilike 40% te je sada to jednako efikasan šut kao onaj iz poludistance na baselineu.
 
@@ -76,7 +76,7 @@ Ukupan broj tih dugih mid-range šuteva na baselineu ove sezone čini samo 1% sv
 
 Sve te nabrojene stvari su dovele do toga da gledamo najefikasniju košarku ikada.
 
-![](../../assets/mid_range/pts_poss_ts_hr_scale.png)
+![](/assets/mid_range/pts_poss_ts_hr_scale.png)
 
 Na prethodnom grafu možete vidjeti usporedbu prosječnog broja posjeda po utakmici (obično se to zove "Pace", ili ritam), poena po utakmici i "True Shooting" postotka na razini cijele lige.
 

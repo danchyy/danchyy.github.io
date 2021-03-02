@@ -14,7 +14,7 @@ There has never been a smaller number of shots from mid-range, but does that mea
 
 I will start this post with one chart.
 
-![](../../assets/mid_range/lokacije_vrijeme_eng.png)
+![](/assets/mid_range/lokacije_vrijeme_eng.png)
 
 On it you can see a drastic drop in shots per game from the mid-range area. On the other hand, you can see a drastic increase in 3-point shots from the Above The Break area. Other areas do not have such a drastic rise/fall, although there are some small differences in the number of shots in the Restricted Area and the paint itself.
 
@@ -24,11 +24,11 @@ The Utah Jazz, currently the best team in the entire league play analytically pe
 
 But that's not true only for Utah, all the teams have reduced the number of shots from that area to some extent. In the following graph, you can see the 100 most common shooting locations across the league.
 
-![](../../assets/mid_range/najcesce_lokacije_suta_eng.png)
+![](/assets/mid_range/najcesce_lokacije_suta_eng.png)
 
 And in the following chart you can see the 100 most common shooting locations for each individual team.
 
-![](../../assets/mid_range/najucestalije_lokacije_suta_eng.png)
+![](/assets/mid_range/najucestalije_lokacije_suta_eng.png)
 
 The Spurs jump out the most as the team different from the "template", although they also have a lot less mid-range shots than last season. But this graph is very interesting and you can see some favorite locations of individual players.
 
@@ -50,7 +50,7 @@ This previous "mini-list" is interesting because it brings us to the next topic 
 
 The stars of the teams and pretty much entire league, ie. the playmakers and creators, rely on mid-range as a very important and dangerous weapon for the opposing team. We can read this from the following chart.
 
-![](../../assets/mid_range/neasistirani_lokacije_eng.png)
+![](/assets/mid_range/neasistirani_lokacije_eng.png)
 
 The total share of unassisted shots has been growing steadily over the past 20 years, as well as this season. This is just a confirmation of what we saw in the graph showing the most common locations for all 30 teams, where we saw signature shots for players like Kawhi, Chris Paul, etc... Due to their ability to create, they will often have opportunities to take shots from mid-range.
 
@@ -60,7 +60,7 @@ That is, we can say that those players who stopped shooting from the mid-range a
 
 Efficiency is the reason for this decline.
 
-![](../../assets/mid_range/prosjek_cijela_liga_2000_01_eng.png)
+![](/assets/mid_range/prosjek_cijela_liga_2000_01_eng.png)
 
 In the first graph you can see the number of shots and the efficiency of the shots in the 2000-01 season. As many as ~20,000 shots were taken from long mid-range along the baseline, but their efficiency at the level of the entire league was only 40% (we can round to a higher number), while the efficiency in threes from corners is about 38%.
 
@@ -78,7 +78,7 @@ And one indirect effect they achieve is that magical spacing. The court is much 
 
 The shares of shots today is much different, as I have already shown in the first graph, and thus the efficiency of shots.
 
-![](../../assets/mid_range/prosjek_cijela_liga_2020_21_eng.png)
+![](/assets/mid_range/prosjek_cijela_liga_2020_21_eng.png)
 
 NBA players practice more shots from a distance of 3 points, so the efficiency of 3-point shots has increased significantly. Which means that the efficiency of the shot (especially corner threes) has increased to approximately 40%, and now it is just as efficient a shot as the one from half distance on the baseline (of course, it yields a lot more points as mentioned before if we calculate expected points).
 
@@ -86,7 +86,7 @@ The total number of these long baseline mid-range shots this season makes up onl
 
 All of these things have led us to watch the most efficient basketball ever.
 
-![](../../assets/mid_range/pts_poss_ts_eng.png)
+![](/assets/mid_range/pts_poss_ts_eng.png)
 
 On the previous chart, you can see a comparison of the average number of possessions per game (usually called "Pace"), points per game, and "True Shooting" percentage across the league level.
 
