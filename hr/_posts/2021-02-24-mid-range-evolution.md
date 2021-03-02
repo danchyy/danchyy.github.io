@@ -1,4 +1,15 @@
-# Je li mid-range uistinu mrtav?
+---
+layout: post
+title: Je li mid-range mrtav?
+lang: hr
+lang-ref: mid-range-evolution
+url: mid-range-evolution
+---
+
+
+Nikada nije bilo manje mid-range šuteva no ove sezone, no znači li to da je mid-range uistinu mrtav?
+
+<!--more-->
 
 ## Nikad manji broj šuteva s poludistance
 

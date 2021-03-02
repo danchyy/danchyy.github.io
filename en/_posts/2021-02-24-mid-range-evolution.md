@@ -10,7 +10,7 @@ There has never been a smaller number of shots from mid-range, but does that mea
 
 <!--more-->
 
-# There has never been a smaller number of shots from mid-range
+## There has never been a smaller number of shots from mid-range
 
 I will start this post with one chart.
 
@@ -46,7 +46,7 @@ The Spurs jump out the most as the team different from the "template", although 
 
 This previous "mini-list" is interesting because it brings us to the next topic and the reason why the mid-range will never disappear.
 
-# The stars rely on the mid-range bigtime
+## The stars rely on the mid-range bigtime
 
 The stars of the teams and pretty much entire league, ie. the playmakers and creators, rely on mid-range as a very important and dangerous weapon for the opposing team. We can read this from the following chart.
 
@@ -56,7 +56,7 @@ The total share of unassisted shots has been growing steadily over the past 20 y
 
 That is, we can say that those players who stopped shooting from the mid-range are role players, one-dimensional players/shooters such as Joe Harris, Duncan Robinson, but also Myles Turner, Brook Lopez... We can summarize this whole "drop" of the mid-range because of this type of players.
 
-# Expected points
+## Expected points
 
 Efficiency is the reason for this decline.
 
@@ -74,7 +74,7 @@ That's why players like Harris, Robinson and especially Turner and Lopez have mo
 
 And one indirect effect they achieve is that magical spacing. The court is much wider and Brogdon-Sabonis (in the case of Pacers and Myles Turner) or Giannis (in the case of Bucks and Brook Lopez) get a lot more room to play through the middle of the floor.
 
-## The most efficient basketball ever
+### The most efficient basketball ever
 
 The shares of shots today is much different, as I have already shown in the first graph, and thus the efficiency of shots.
 
@@ -98,6 +98,6 @@ The pace was fastest in the 60's and the time of Wilt Chamberlain and then kept 
 
 The efficiency (or TS%) is so great precisely due to the fact that role players shoot these cost-effective shots from corners for 3 points, or under the hoop, while avoiding long shots for 2 points.
 
-# Conclusion
+## Conclusion
 
 The mid-range shot did not die, rather basketball evolved and found a place (and a very important place) for that shot. The question is how long the role players will avoid taking shots from that distance, and whether some changes in the rules will change the way today's basketball is played, as it has been in the past...
