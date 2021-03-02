@@ -4,6 +4,7 @@ title: Je li mid-range mrtav?
 lang: hr
 lang-ref: mid-range-evolution
 url: mid-range-evolution
+image: /assets/mid_range/lokacije_vrijeme.png
 ---
 
 

@@ -4,6 +4,7 @@ title: Is the mid-range really dead?
 lang: en
 lang-ref: mid-range-evolution
 url: mid-range-evolution
+image: /assets/mid_range/lokacije_vrijeme_eng.png
 ---
 
 There has never been a smaller number of shots from mid-range, but does that mean that mid-range is gone?
