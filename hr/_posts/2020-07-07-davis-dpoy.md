@@ -12,6 +12,8 @@ twitter_img: /assets/davis_defense/davis_mini_2.png
 
 Nakon što je 2012. godine draftan od strane New Orleans Pelicansa (tada zvani Hornets), Anthony Davis je pružao sjajne predstave svake sezone. Međutim, taj je uspjeh bio više na "osobnoj" razini, jer su Pelikani dosegli doigravanje samo dva puta, u sezoni 2014-15 i 2017-18. AD je bio odličan u tim doigravanjima, ali najdalje do kud su Pelicani dogurali je 2. kolo u sezoni 2017-18.
 
+<!--more-->
+
 Kroz svojih prvih sedam sezona, Davis je prepoznat kao jedan od najboljih obrambenih igrača u ligi, a ipak je samo tri puta izabranu u All-Defensive ekipa (dva puta u drugoj, a jednom u prvoj All-Defensive ekipi). Je li uspjeh tima (ili nedostatak istoga) ugušio Davisove šanse za eventualno osvajanje DPOY-a ili jednostavno nije bio *toliko* dobar?
 
 ## Prošli obrambeni uspjesi
