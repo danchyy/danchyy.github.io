@@ -13,7 +13,7 @@ All-Star pauza označava točno polovicu sezone, pa sam ove godine odlučio pogl
 
 <!--more-->
 
-# Rookie of the Year: LaMelo Ball
+## Rookie of the Year: LaMelo Ball
 
 ![](/assets/mid_season_awards/lamelo.jpg)
 
@@ -27,9 +27,9 @@ No znali smo da će biti dobar kreator, ono što je ogroman plus jest njegov šu
 
 Podcijenjena strana je obrana, u tih istih 15 utakmica imao je čak 1.9 ukradenu po tekmi, i ima 3.2 deflekcije po utakmici. I da, ako se pitate jesu li to samo puste brojke, definitivno ne. Odlično igra obranu bez lopte i često pravovremeno čita dodavanja ili izbije loptu igračima kao help defender. Pokazuje svoj košarkaški IQ. Ponekad se muči s bržim bekovima, no mislim da bi mogao u tome napredovati kroz vrijeme i da bi mogao i na obrambenoj strani biti fenomenalan igrač.
 
-2. u izboru bi mi bio Tyrese Haliburton, a 3. bi već bio nejasan, iako bi možda Edwards prevagnuo ispred Wisemana i Quickleyja.
+Nakon LaMela, 2. u izboru bi mi bio Tyrese Haliburton, a 3. bi već bio nejasan, iako bi možda Edwards prevagnuo ispred Wisemana i Quickleyja.
 
-# 6th Man of the Year: Jordan Clarkson
+## 6th Man of the Year: Jordan Clarkson
 
 ![](/assets/mid_season_awards/clarkson.jpg)
 
@@ -45,7 +45,7 @@ Ova nagrada je jedna od manje bitnih po mojem mišljenju, ali je simpatična i u
 
 Već sam spomenuo ostale igrače koji su dobra opcija ovdje, spomenut ću još samo TJ-a McConnella koji odlično odrađuje posao s klupe za Pacerse, ali njegov utjecaj se najviše vidi kroz razigravanje.
 
-# Most Improved Player: Jerami Grant
+## Most Improved Player: Jerami Grant
 
 ![](/assets/mid_season_awards/grant.jpg)
 
@@ -63,7 +63,7 @@ Neki zaključak jest, ako gledamo objektivno, Grant definitivno sam zaslužuje n
 
 Ostatak konkurencije (iako mislim da nemaju šanse) se sastoji od All-Star igrača Jaylena Browna i Zacha Lavinea (iako su oni i prošle sezone već znatno iskoračili), Malika Beaslyja, koji je doduše pokazivao ovakvu igru odmah nakon prošlogodišnjeg tradea; Dejountea Murrayja koji je igrao fenomealno cijele sezone i izgleda kao igrač koji bi mogao nositi franšizu te De'Andrea Huntera, koji se nažalost ozljedio pred nekoliko tjedana. Uz njih dodat ću i Lonza Balla koji mislim da ne konkurira kao i ostatak ovih imena, ali igra impresivno posljednjih mjesec dana.
 
-# Defensive Player of the Yer: Rudy Gobert
+## Defensive Player of the Yer: Rudy Gobert
 
 ![](/assets/mid_season_awards/rudy_img.jpg)
 
@@ -89,7 +89,7 @@ Gobert bi mogao poraditi na puno stvari u napadu, ali njegov takozvani "Roll Gra
 
 Od ostalih kandidata, na 2. mjestu je Myles Turner, kojeg jako volim gledati i koji bi do kraja sezone itekako mogao prestići Goberta, jer ove sezone je tu svoju obrambenu igru dignuo do vrhunca. Iza njega bih još stavio Bena Simmonsa koji radi sjajan posao u Philadelphiji, on je jedan od rijetkih igrača koji danas mogu čuvati pozicije od 1-5. Još neki vrlo dobri igrači bi bili Fred VanVleet, Giannis, Mitchell Robinson možda i Embiid? Iako Gobert, Turner i Simmons su za sada jedini u raspravi po meni.
 
-# Most Valuable Player: Joel Embiid
+## Most Valuable Player: Joel Embiid
 
 ![](/assets/mid_season_awards/jojo.jpg)
 
