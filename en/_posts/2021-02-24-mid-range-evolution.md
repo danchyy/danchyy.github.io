@@ -7,21 +7,19 @@ url: mid-range-evolution
 image: /assets/mid_range/lokacije_vrijeme_eng.png
 ---
 
-There has never been a smaller number of shots from mid-range, but does that mean that mid-range is gone?
+There has never been a smaller number of shots from mid-range, but does that mean that the mid-range is dead?
+
+![](/assets/mid_range/lokacije_vrijeme_eng.png)
 
 <!--more-->
 
 ## There has never been a smaller number of shots from mid-range
 
-I will start this post with one chart.
-
-![](/assets/mid_range/lokacije_vrijeme_eng.png)
-
-On it you can see a drastic drop in shots per game from the mid-range area. On the other hand, you can see a drastic increase in 3-point shots from the Above The Break area. Other areas do not have such a drastic rise/fall, although there are some small differences in the number of shots in the Restricted Area and the paint itself.
+On the title chart you can see a drastic drop in shots per game from the mid-range area. On the other hand, you can see a drastic increase in 3-point shots from the Above The Break area. Other areas do not have such a drastic rise/fall, although there are some small differences in the number of shots in the Restricted Area and the paint itself.
 
 In today's NBA, basketball is played that way, with very few mid-range shots, in fact some teams have almost completely eradicated it from their system.
 
-The Utah Jazz, currently the best team in the entire league play analytically perfect, taking just 6 shots per game from mid-range, the rest coming from paint or behind 3-point line, and thus leading the league in the number of shots from corners for 3 points. Purely for reference, how small that number is, Bradley Beal alone takes over 6 shots from mid-range per game.
+The Utah Jazz, currently the best team in the entire league play analytically perfect, taking just 6 shots per game from the mid-range, the rest coming from paint or behind 3-point line, and thus leading the league in the number of shots from corners for 3 points. Purely for reference how small that number is, Bradley Beal alone takes over 6 shots from mid-range per game.
 
 But that's not true only for Utah, all the teams have reduced the number of shots from that area to some extent. In the following graph, you can see the 100 most common shooting locations across the league.
 
@@ -59,11 +57,11 @@ That is, we can say that those players who stopped shooting from the mid-range a
 
 ## Expected points
 
-Efficiency is the reason for this decline.
+And the reason that they stopped shooting mid-rangers is efficiency.
 
 ![](/assets/mid_range/prosjek_cijela_liga_2000_01_eng.png)
 
-In the first graph you can see the number of shots and the efficiency of the shots in the 2000-01 season. As many as ~20,000 shots were taken from long mid-range along the baseline, but their efficiency at the level of the entire league was only 40% (we can round to a higher number), while the efficiency in threes from corners is about 38%.
+In the chart above you can see the number of shots and the efficiency of the shots in the 2000-01 season. As many as ~20,000 shots were taken from long mid-range along the baseline, but their efficiency at the level of the entire league was only 40% (we can round to a higher number), while the efficiency in threes from corners is about 38%.
 
 But the expected points are very different.
 
@@ -73,7 +71,9 @@ But the expected points are very different.
 
 That's why players like Harris, Robinson and especially Turner and Lopez have moved into the corner instead of standing at half distance, because that way they have roughly the same probability of scoring, but of course they will get 3 points instead of 2.
 
-And one indirect effect they achieve is that magical spacing. The court is much wider and Brogdon-Sabonis (in the case of Pacers and Myles Turner) or Giannis (in the case of Bucks and Brook Lopez) get a lot more room to play through the middle of the floor.
+And one indirect effect, and maybe even more important effect, is that they space the floor. The court is much wider and Brogdon-Sabonis (in the case of Pacers and Myles Turner) or Giannis (in the case of Bucks and Brook Lopez) get a lot more room to play through the middle of the floor.
+
+There are more reasons that culminated to this scenario, more specifically rule changes. In the 90s there was no rule for defensive 3 seconds, which allowed players to stand in the paint much more, nowadays that's not allowed. But whenever you look at old basketball games (80s-90s) you can see bunch of players bunched up around the paint area.
 
 ### The most efficient basketball ever
 
@@ -81,9 +81,9 @@ The shares of shots today is much different, as I have already shown in the firs
 
 ![](/assets/mid_range/prosjek_cijela_liga_2020_21_eng.png)
 
-NBA players practice more shots from a distance of 3 points, so the efficiency of 3-point shots has increased significantly. Which means that the efficiency of the shot (especially corner threes) has increased to approximately 40%, and now it is just as efficient a shot as the one from half distance on the baseline (of course, it yields a lot more points as mentioned before if we calculate expected points).
+The efficiency of 3 point shot across the board has increased a bit, which makes sense as players practiced it more. Which means that the efficiency of the shot (especially corner threes) has increased to approximately 40%, and now it is just as efficient a shot as the one from mid-range on the baseline (of course, it yields a lot more points per shot as mentioned before if we calculate expected points).
 
-The total number of these long baseline mid-range shots this season makes up only 1% of all shots, while in the 2000-01 season that made up as much as 10% of all shots...
+The total number of these long baseline mid-range shots this season makes up only 1% of all shots, while in the 2000-01 season that made up 10% of all shots...
 
 All of these things have led us to watch the most efficient basketball ever.
 
@@ -95,9 +95,11 @@ True Shooting takes into account both threes and free throws and is perhaps a be
 
 `TS% = PTS / (2 * (FGA + 0.44 * FTA)) * 100`
 
+However, the caveat of that metric is that 0.44 multiplier which estimates number of free throw shots per possession might have been different in the past.
+
 The pace was fastest in the 60's and the time of Wilt Chamberlain and then kept falling until 2010s. when it started to grow slowly and came to the same situation as in the early 90s, but what is impressive is that TS% is the highest ever, and that teams score the same points as in the early 80s when the number of possessions was still much bigger than today.
 
-The efficiency (or TS%) is so great precisely due to the fact that role players shoot these cost-effective shots from corners for 3 points, or under the hoop, while avoiding long shots for 2 points.
+The efficiency (or TS%) is so big due to the fact that role players shoot these cost-effective shots from corners for 3 points, or under the hoop, while avoiding long shots for 2 points.
 
 ## Conclusion
 

@@ -10,6 +10,8 @@ image: /assets/mid_range/lokacije_vrijeme.png
 
 Nikada nije bilo manje mid-range šuteva no ove sezone, no znači li to da je mid-range uistinu mrtav?
 
+![](/assets/mid_range/lokacije_vrijeme.png)
+
 <!--more-->
 
 ## Nikad manji broj šuteva s poludistance
