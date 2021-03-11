@@ -79,7 +79,7 @@ The rest of the competition (though I think that Grant should be top candidate) 
 
 We can say that Rudy Gobert is not only a "Rim Protector", he completely deters offensive players from the rim and completely changes the opposing team's gameplan.
 
-He allows only 42.6% of the opponent's goals (out of 18 defended shots), the players who are better than him in that segment (and defend a decent number of shots) is only Myles Turner with 42%. We have a few more good players after them, but with less defended attempts, like Poetl (39% !!) and Wiggins, but Wiggins still doesn’t defend as many shots under the rim as the other mentioned players. In that segment again only Turner allows a smaller percentage than Gobert. There is a very close fight between Turner and Gobert and no one would be wrong to give Myles an award, in fact there is a very good chance that he will overtake Gobert by the end of the season.
+He allows only 42.6% of the opponent's goals (out of 18 defended shots), the players who are better than him in that segment (and defend a decent number of shots) is only Myles Turner with 42%. We have a few more good players after them, but with less defended attempts, like Poetl (39% !!) and Wiggins, but Wiggins still doesn’t defend as many shots under the rim as the other mentioned players. There is a very close fight between Turner and Gobert and no one would be wrong to give Myles an award, in fact there is a very good chance that he will overtake Gobert by the end of the season.
 
 ![](/assets/mid_season_awards/dpoy_table_2.png)
 
@@ -89,9 +89,9 @@ But the reason I choose Gobert right now is that he is COMPLETELY changing the J
 
 Another thing that confirms his presence on the defensive side is the defensive rating of the team when he is on the field, and when he is off the field. Of some sound center names (and some DPOY candidates), he has by far the biggest impact on his team, his team has a lower defensive rating of 6.5 points per 100 possessions when he's on the court than when he's off!
 
-We can say that Rudy Gobert is not only Rim Defender, he completely deters offensive players away fromthe restricted area and completely changes the gameplan of opposing team. His very presence is already a huge factor in Jazzer's defense, and his ability to interfere and block shots raises his defensive game to an incredible level.
+We can say that Rudy Gobert is not only Rim Defender, he completely deters offensive players away from the restricted area and completely changes the gameplan of opposing team. His very presence is already a huge factor in Jazzer's defense, and his ability to interfere and block shots raises his defensive game to an incredible level.
 
-Like any excellent player, Gobert (and thus Utah) has a weak point, and that is when the center stretches the court. It's weird that they didn't insert some form of zone yet (or haven't I seen it yet?), because that's how the 76ers won the game in overtime recently, and the Nuggets and Jokić played similarly against them. Purely to be clear, in 1-vs-1 duels he held both Jokic and Embiid to relatively okayish numbers.
+Like any excellent player, Gobert (and thus Utah) has a weak point, and that is when the center stretches the court. It's weird that they didn't insert some form of zone yet (or I haven't seen it yet?), because that's how the 76ers won the game in overtime recently, and the Nuggets and Jokić played similarly against them. Purely to be clear, in 1-vs-1 duels he held both Jokic and Embiid to relatively okayish numbers.
 
 Gobert could work on a lot of things on offense, but his so-called "Roll Gravity" is HUGE, that is, when they play pick and roll, defensive players have to choose whether to cover him, because he has an easy dunk, or guard the three-pointer, or guard the ball handler.
 
@@ -111,9 +111,9 @@ Jokic has a historically crazy offensive season (and he has never looked so phys
 
 ![](/assets/mid_season_awards/postup_players.png)
 
-Embiid is the best this season in points per possession when it comes to shares from Post Up, Jokic is second behind him. I don't remember when was the last season when the two top candidates for MVP were such a dominant post up players, maybe during Duncan, Garnett and Dirk time?
+Embiid is the among the best in the league this season in points per possession when it comes to possesions from Post Up, Jokic is also right there with him. I don't remember when was the last season when the two top candidates for MVP were such a dominant post up players, maybe during Duncan, Garnett and Dirk time?
 
-Here are a few more quick lines on how good these two really are: Jokic has perhaps the best passing season for a center. Embiid is perhaps the best mid-range scorer this season (if we look at both volume and efficiency). Jokic dominates inside the paint with his hooks. Embiid shoots over 85% at the free throw line! Also, Embiid is a HUGE plus on the defensive side, and Philadelphia looks significantly better with him on defense as well.
+Here are a few more quick notes on how good these two really are: Jokic has perhaps the best passing season for a center. Embiid is perhaps the best mid-range scorer this season (if we look at both volume and efficiency). Jokic dominates inside the paint with his hooks. Embiid shoots over 85% at the free throw line! Also, Embiid is a HUGE plus on the defensive side, and Philadelphia looks significantly better with him on defense as well.
 
 ![](/assets/mid_season_awards/on_off_diff.png)
 
@@ -122,9 +122,9 @@ Net Rating (Off-Def) when Jokić is on/off the court: 8.3/-1.4 -> difference: 9.
 
 IMPORTANT: I ​​like to use these ratings as they are a very handy indicator of "usefulness", but it is NOT an ideal metric, like any other metric (for now).
 
-Embiid has played 30 of a possible 36 games this season. And in those 30 games with him, Phila has a score of 23-7, which is the best Win% in the entire league (better than Utah’s current score). Sure, this is a bit of "manipulating" the numbers, but the fact is that Embiid is taking his team to another level. The fact is that he is unstoppable on the offensive side, especially in a 1 on 1 game, such situations should not be allowed by opposing teams. Him and Simmons are perhaps the best defensive duo in the league right now, and they can lock any team. And here is another sdtat: Embiid allows 53% of the shots scored on the hoop (distance <1.8m/<6ft) which is only slightly weaker than Gobert, Turner, etc ... Embiid is that X-Factor.
+Embiid has played 30 of a possible 36 games this season. And in those 30 games with him, Phila has a score of 23-7, which is the best Win% in the entire league (better than Utah’s current score). Sure, this is a bit of "manipulating" the numbers, but the fact is that Embiid is taking his team to another level. The fact is that he is unstoppable on the offensive side, especially in a 1 on 1 game, such situations should not be allowed by opposing teams. Him and Simmons are perhaps the best defensive duo in the league right now, and they can lock any team. And here is another stat: Embiid allows 53% of the shots scored on the hoop (distance <1.8m/<6ft) which is only slightly weaker than Gobert, Turner, etc ... Embiid is that X-Factor.
 
-Let's not fool ourselves, Jokić is the x-factor as well, but only on the offensive side, and his defensive role ultimately made me lean towards Embiid. The Nuggets hide Jokić in the pick and roll defense so that he hedges the screens and interferes with the ball handler while the other players rotate aggressively. Jokic allows as much as 63.7% at the rim, only Kanter is worse in that aspect than the starting centers, but not everything is so bad with Jokic on defense. He plays very well without the ball, reads "passing lanes", has a lot of steals and deflections. I think the Nuggets are going to pull some trade move, but I don’t know who’s the odd man out for them now. The conclusion would be that at the moment Embiid's defense somehow overpowers Jokic's passes.
+Let's not fool ourselves, Jokić is the x-factor as well, but only on the offensive side, and his defensive role ultimately made me lean towards Embiid. The Nuggets hide Jokić in the pick and roll defense so that he hedges the screens and interferes with the ball handler while the other players rotate aggressively. Jokic allows whooping 63.7% at the rim, only Kanter is worse in that aspect than the starting centers, but not everything is so bad with Jokic on defense. He plays very well without the ball, reads "passing lanes", has a lot of steals and deflections. I think the Nuggets are going to pull some trade move, but I don’t know who’s the odd man out for them now. The conclusion would be that at the moment Embiid's defense somehow overpowers Jokic's passes.
 
 ![](/assets/mid_season_awards/jokic_embiid.png)
 
