@@ -7,7 +7,7 @@ url: saric-true-role
 image: /assets/saric_suns/shishi.jpg
 ---
 
-Dario Šarić has bounced around the NBA and is now with his 3rd team in 5 seasons. After he almost won Rookie of The Year award back in 2016-16, I thought he would his numbers would start skyrocketing, however his role kept changing and numbers kept diminishing, until this season (well, last year's bubble, but okay) and his new role with Phoenix Suns.
+Dario Šarić has bounced around the NBA and is now with his 3rd team in 5 seasons. After he almost won Rookie of The Year award back in 2016-17, I thought he would his numbers would start skyrocketing, however his role kept changing and numbers kept diminishing, until this season (well, last year's bubble, but okay) and his new role with Phoenix Suns.
 
 ![](/assets/saric_suns/shishi.jpg)
 
