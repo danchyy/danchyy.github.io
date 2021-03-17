@@ -5,6 +5,7 @@ lang: hr
 lang-ref: saric-true-role
 url: saric-true-role
 image: /assets/saric_suns/saric_shot_selection.png
+summary: Od point forwarda u slaboj ekipi Sixersa, preko više sezona kao stretch četvorka i spot up šuter, do najnovije uloge. Small-Ball centar.
 ---
 
 Dario Šarić je u 5 NBA sezona promjenio 3 ekipe, to je nešto što možda većina navijača nije mislila da će se dogoditi nakon njegove prve sezone, pogotovo jer je odmah postao *fan favourite* i bitna karika. Uz to, njegova se uloga stalno mijenjala sve do ove sezone (točnije, do prošlogodišnjeg Bubblea).
