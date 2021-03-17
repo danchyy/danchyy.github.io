@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did Dario Šarić finally find his true role in the Suns?
+title: Did Dario Šarić finally find his true role?
 lang: en
 lang-ref: saric-true-role
 url: saric-true-role
