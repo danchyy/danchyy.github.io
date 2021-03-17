@@ -4,7 +4,7 @@ title: Je li Dario Šarić našao svoje mjesto pod suncem?
 lang: hr
 lang-ref: saric-true-role
 url: saric-true-role
-image: /assets/saric_suns/saric_shot_selection.png
+image: /assets/saric_suns/shishi.jpg
 summary: Od point forwarda u slaboj ekipi Sixersa, preko više sezona kao stretch četvorka i spot up šuter, do najnovije uloge. Small-Ball centar.
 ---
 
