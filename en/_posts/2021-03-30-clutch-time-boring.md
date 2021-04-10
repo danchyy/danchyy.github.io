@@ -13,7 +13,7 @@ In a time where NBA ratings are decreasing significantly and arenas have been em
 
 <!--more-->
 
-When you watch football (or soccer, if you’re American) and the match is nearing the end of the injury time, very rarely will the match be extended by more than the previously shown number of extra minutes (if it does get extended, these are exceptional cases of additional injury or goal scored). In other sports that are determined by time intervals (handball, volleyball, hockey) such situations are even rarer.
+When you watch football (or soccer, if you’re American) and the match is nearing the end of the injury time, very rarely will the match be extended by more than the previously shown number of extra minutes (if it does get extended, these are exceptional cases of additional injury or goal scored). In other sports that are determined by time intervals (handball, water polo, hockey) such situations are even rarer.
 
 Basketball is one of the few sports in which you can “steal” time and win tactically, even though you were in a not-so-good situation a minute or two before the end of the game. That is why basketball is a wonderful sport. Or is it?
 
