@@ -10,6 +10,7 @@ image: /assets/nuggets_poetry_motion/jokic_imazh.jpg
 In addition to being one of the best teams in the league at the moment, the Nuggets are, in my opinion, the most fun team to watch. Lots of movements without the ball, lots of interesting and non-traditional actions, and some of them can even be called crazy.
 
 ![](/assets/nuggets_poetry_motion/jokic_imazh.jpg)
+*Cover image: Bart Young/NBAE via Getty Images*
 
 
 <!--more-->
