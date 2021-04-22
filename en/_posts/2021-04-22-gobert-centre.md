@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rudy Gobert - Center of Attention
-lang: hr
+lang: en
 lang-ref: gobert-center
 url: gobert-center
 image: /assets/gobert_centre/rudy_dunk.jpg
