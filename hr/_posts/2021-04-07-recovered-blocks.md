@@ -15,6 +15,8 @@ Riječ je o *oporavljenim loptama nakon blokova*, e sad, taj izraz zvuči jako g
 
 Ovo nije nikakva ozbiljna metrika, već čisto jedna od stvari koja mi je jednom pala napamet, pa sam odlučio pogledati brojke i podijeliti sa svima vama.
 
+<!--more-->
+
 ## Najefikasniji blokeri ove sezone
 
 Za početak bacimo oko na aktualnu sezonu i kako stvari stoje kod najboljih blokera.

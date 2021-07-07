@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Rudy Gobert - centar zbivanja Utah Jazza
+title: Tko je pravi chacha clutcha?
 lang: hr
-lang-ref: gobert-center
-url: gobert-center
-image: /assets/nuggets_poetry_motion/jokic_imazh.jpg
+lang-ref: chacha-clutcha
+url: chacha-clutcha
 ---
 
 Već nekoliko godina se na našim prostorima spominje izraz "Chacha Clutcha", često se taj nadimak dodjeljuje nekolicini njih, ali ipak najčešće su u pitanju dvojac s naslovne slike - Damian Lillard i Carmelo Anthony. Jesu li oni uistinu ćaće u toj kategoriji?
+
+<!--more-->
 
 ## Najbolji klačeri ove sezone
 
