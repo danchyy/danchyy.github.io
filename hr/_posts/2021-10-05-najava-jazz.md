@@ -10,6 +10,8 @@ url: utah-jazz
 
 Bliži nam se ono što smo svi s nestrpljenjem cijele sezone iščekivali – play-off. Mjesta za pogreške je vrlo malo, a najuzbudljiviji dio je pred nama. Kako bi se uspješno mogli pripremiti za praćenje doigravanja, NBA PULSMEDIA Vam donosi informacijama bogatu najavu svih momčadi koje će se tamo pronaći. Svaki dan dvije ekipe i odgovori na pitanja kako su igrali te koja su očekivanja. Uživajte!
 
+<!--more-->
+
 ## Kako su ih najavili?
 
 Jazzeri su prošle sezone pokazali kako su vrlo ozbiljna ekipe te su dobar dio sezone proveli pri samom vrhu tablice zapada. Do početka "Bubblea" su bili na 4. mjestu tik uz Nuggetse, no nekoliko loših utakmica u "Bubbleu" ih je spustilo na tek 6. mjesto i dvoboj s već spomenutim Nuggetsima u prvoj rundi od kojih su ispali u dramatičnih 7 utakmica. Ta ekipa je vrlo slična današnjoj, i mnogi su zamjerali to što nisu dovoli još jedno krilo/beka koji može čuvati pozicije 1-4. No ispostavilo se kako to nije potrebno jer su Jazzeri debelo nadmašili sva očekivanja.

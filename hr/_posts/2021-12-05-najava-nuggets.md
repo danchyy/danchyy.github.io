@@ -10,6 +10,8 @@ url: denver-nuggets
 
 Bliži nam se ono što smo svi s nestrpljenjem cijele sezone iščekivali – play-off. Mjesta za pogreške je vrlo malo, a najuzbudljiviji dio je pred nama. Kako bi se uspješno mogli pripremiti za praćenje doigravanja, NBA PULSMEDIA Vam donosi informacijama bogatu najavu svih momčadi koje će se tamo pronaći. Svaki dan dvije ekipe i odgovori na pitanja kako su igrali te koja su očekivanja. Uživajte!
 
+<!--more-->
+
 ## Kako su ih najavili?
 
 Nuggetsi su dobili podosta respekta od strane kladionica prošle sezone te su postavili liniju za *over/under* na čak 44.5 pobjede. Kada to gledamo iz današnjeg vremena, to je možda prepesimistična procjena jer su ipak došli iz finala zapada gdje su odigrali vrlo solidno protiv prošlogodišnjih prvaka Lakersa, što bi dalo naznačiti da nisu očekivali neki već skok (na razinu Lakersa ili Bucksa, koji su bili pri vrhu te ljestvice).
@@ -22,7 +24,7 @@ No glavni potez je došao u sredini sezone, kada su razmjenili **Garyja Harrisa*
 
 ## Kako su igrali kroz sezonu?
 
-Bez obzira na sve turbulencije, Nuggetsi su igrali sjajno i već su nadmašili predviđenih 44.5 pobjede (trenutno su na 45). Imali su štošta problema i promjena u momčadi kao što sam spomenuo. Prvo se MPJ ozljedio, rano u sezoni i propustio desetak utakmica, nakon toga se Garry Harris (opet) ozljedio i propustio praktički sve utakmice nakon toga do tradea u Orlando. Tu je bilo još nekoliko sitnih ozljeda **Montea Morrisa** i **Paula Milsapa**. To je sve remetilo ritam i rotacije Denveru koji je stalno morao ubacivati razno razne igrače. Ubrzo nakon toga je došao već spomenuti Aaron Gordon nakon čega su Nuggetsi imali sjajan niz odličnih rezultata, ali još bitnije od toga predivne igre. 
+Bez obzira na sve turbulencije, Nuggetsi su igrali sjajno i već su nadmašili predviđenih 44.5 pobjede (trenutno su na 45). Imali su štošta problema i promjena u momčadi kao što sam spomenuo. Prvo se MPJ ozljedio, rano u sezoni i propustio desetak utakmica, nakon toga se Garry Harris (opet) ozljedio i propustio praktički sve utakmice nakon toga do tradea u Orlando. Tu je bilo još nekoliko sitnih ozljeda **Montea Morrisa** i **Paula Milsapa**. To je sve remetilo ritam i rotacije Denveru koji je stalno morao ubacivati razno razne igrače. Ubrzo nakon toga je došao već spomenuti Aaron Gordon nakon čega su Nuggetsi imali sjajan niz odličnih rezultata, ali još bitnije od toga predivne igre.
 
 No tada je uslijedio šok i povreda koljena Jamala Muraya koji je out cijelu sezonu (nadamo se ne više od toga). Uz to još su se lakše ozlijedili i Barton i Dozier. Kad se sve svede i napiše "na papir", uistinu su Nuggetsi imali ludu sezonu. Jedina konstanta u svemu tome je bila ta sjajna igra Nuggetsa. Konstantno pri vrhu tablice i sada su izgleda zacementirali 4. mjesto regularne sezone. No nisam točno opisao kako su *zapravo* igrali.
 
