@@ -4,7 +4,7 @@ title: Who changed his shot profile the most this season?
 lang: en
 lang-ref: shot-profile-change
 url: shot-profile-change
-image: /assets/
+image: /assets/shot_profile_change/melo_lakers.jpg
 ---
 
 
