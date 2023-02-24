@@ -5,6 +5,7 @@ lang: en
 lang-ref: mikal-bridges-role
 url: mikal-bridges-role
 image: /assets/mikal_bridges_role/bridges_img.jpg
+twitter_img: /assets/mikal_bridges_role/bridges_img.jpg
 ---
 Mikal Bridges has been widely considered an "Elite Role Player" in the past several seasons. He's a very versatile defender who can defend 1 through 4 positions, he is an efficient and consistent scorer who will always make the right decision on the offensive side, and can even create his shot when needed. However, all of the mentioned things apply when he was a 3rd, or even more likely 4th option as Ayton still had more touches than him in the past seasons.
 
