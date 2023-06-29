@@ -6,7 +6,7 @@ lang-ref: free-agency-23-24
 url: free-agency-23-24
 image: /assets/free_agency/free_agency.png
 twitter_img: /assets/free_agency/free_agency.png
-summary: Bridges was always capable of raising the roof of the team, but his task right now is to raise the ceiling of the Nets and lead them on both sides of the court.
+summary: Dragi čitatelji, u petak 30.6.2023 u ponoć po hrvatskom vremenu počinje razdoblje trgovanja slobodnih igrača u NBA-u. Ususret tome probat ću ukratko opisat što može koja ekipa odraditi i kakvo je njihovo stanje s plaćama
 author: daniel_bratulic
 ---
 
