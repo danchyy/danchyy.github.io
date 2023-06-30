@@ -4,8 +4,8 @@ title: Pogled na tržište slobodnih igrača u NBA 2023-24
 lang: hr
 lang-ref: free-agency-23-24
 url: free-agency-23-24
-image: /assets/free_agency/free_agency.png
-twitter_img: /assets/free_agency/free_agency.png
+image: /assets/free_agency/free_agency.PNG
+twitter_img: /assets/free_agency/free_agency.PNG
 summary: Dragi čitatelji, u petak 30.6.2023 u ponoć po hrvatskom vremenu počinje razdoblje trgovanja slobodnih igrača u NBA-u. Ususret tome probat ću ukratko opisat što može koja ekipa odraditi i kakvo je njihovo stanje s plaćama
 author: daniel_bratulic
 ---
@@ -14,7 +14,7 @@ author: daniel_bratulic
 
 Dragi čitatelji, u petak 30.6.2023 u ponoć po hrvatskom vremenu počinje razdoblje trgovanja slobodnih igrača u NBA-u. Ususret tome probat ću ukratko opisat što može koja ekipa odraditi i kakvo je njihovo stanje s plaćama. Za početak slijedi uvod u CBA i što točno to znači. Uživajte!
 
-![](/assets/free_agency/free_agency.png)
+![](/assets/free_agency/free_agency.PNG)
 
 <!--more-->
 
